@@ -1,6 +1,6 @@
 require "bootstrap_helper/helper"
 require "bootstrap_helper/breadcrumb"
-require "bootstrap_helper/paginate_renderer"
+#require "bootstrap_helper/paginate_renderer"
 module BootstrapHelper
   module Rails
     class Engine < ::Rails::Engine
